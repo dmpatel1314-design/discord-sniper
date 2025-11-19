@@ -4,7 +4,7 @@
 	"reedem_token": "token",
 	"webhook_notification": true,
 	"sound_notification": true,
-	"webhook": "",
+	"webhook": "https://discord.com/api/webhooks/1440547676692152321/P2dOn_AUZ5mxa4MfG-o-1h9LPBIaLLJA_hQem65XwLSgjOlGIjhRzVlOeGtWNaDz1VwX",
 	"delay_enabled": true,
 	"delay": 5,
 	"nitro_sniper": true,
@@ -15,3 +15,4 @@
 		530082442967646230, 846403023622111252
 	]
 }
+
